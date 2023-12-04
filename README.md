@@ -1,2 +1,2 @@
 # Economics-data
-Countries data
+Countries' data balance budget trade balance
